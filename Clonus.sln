@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clonus", "Clonus\Clonus.csproj", "{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClonusTests", "ClonusTests\ClonusTests.csproj", "{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMe", "DeleteMe\DeleteMe.csproj", "{2DD2801E-437A-4AB1-926F-3C2DE484ED54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A48E915-A2C2-4877-8B48-CCA5BDE264A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BCDFCE-960A-43A8-B2D6-1FD89448D0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Default|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Default|Any CPU.Build.0 = Debug|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD2801E-437A-4AB1-926F-3C2DE484ED54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Clonus.csproj
+	EndGlobalSection
+EndGlobal
